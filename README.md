@@ -1,90 +1,88 @@
-<h1 align="center">Hi 👋, I'm Nevin Shoby</h1>
-<h3 align="center">Software Engineer @ Lynceus Labs | Full Stack Developer | iOS Developer</h3>
+# Hi 👋, I'm Nevin Shoby
 
-<p align="center">
-  Passionate about building modern web and mobile applications while exploring AI-assisted software development.
-</p>
+### Full Stack Developer | Software Engineer | Computer Science Graduate
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nevinshobyxib-beep&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
+I'm passionate about building modern web applications and continuously expanding my skills in full-stack development. I enjoy solving real-world problems through software, exploring AI-assisted development, and learning new technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Software Engineer at **Lynceus Labs IT Solutions Pvt. Ltd.**
-- 📱 Working on the **Longva Workout Application**
-- 🍎 Primarily contributing to **iOS Development**
-- 📈 Built and integrated the **Progress Tracker** module
-- ☁️ Worked with **Cloudflare CDN**
-- 🤖 Using **Claude Code** & **Model Context Protocol (MCP)**
-- 🎨 Created 3D assets using **Blender**
-- 🎥 Contributed to AI-generated workout videos
-- 🌱 Currently learning advanced Full Stack & Mobile Development
+- 💻 Full Stack Developer with a strong interest in frontend and backend development
+- 🌱 Exploring AI-assisted development and modern software engineering workflows
+- 🚀 Passionate about building scalable web and mobile applications
+- 📚 Always learning and improving through hands-on projects
+- 🎯 Interested in Full Stack Development, iOS Development, and AI technologies
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
+### Languages
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,python,postgres,mysql,git,github,vscode,blender"/>
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
 
-</p>
+### Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 📚 Currently Exploring
+
+- AI-Assisted Development
+- Modern Full Stack Development
+- Mobile Application Development
+- Clean Software Architecture
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=nevinshobyxib-beep&show_icons=true&theme=github_dark&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nevinshobyxib-beep&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevinshobyxib-beep&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevinshobyxib-beep&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nevinshobyxib-beep&theme=tokyonight&hide_border=true"/>
-
-</p>
+![](https://streak-stats.demolab.com?user=nevinshobyxib-beep&theme=github-dark&hide_border=true)
 
 ---
 
-## 🛠️ Tools I Use
+## 🎯 Goals
 
-<p>
-
-<img src="https://img.shields.io/badge/Claude_Code-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-
-</p>
+- Build high-quality full-stack applications
+- Learn new technologies continuously
+- Contribute to open-source projects
+- Grow as a Software Engineer
+- Build solutions that create real-world impact
 
 ---
 
-## 📌 Current Focus
+## 📫 Connect With Me
 
-- 📱 iOS Application Development
-- ⚛️ React Development
-- 🟢 Node.js & Express.js
-- 🗄️ PostgreSQL & MySQL
-- 🤖 AI-assisted Software Development
+📧 **Email:** nevinshoby.xib@gmail.com
 
----
+💼 **LinkedIn:** *(Add your LinkedIn URL)*
 
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: **Add your LinkedIn profile here**
-- 🌐 Portfolio: **Coming Soon**
+🌐 **Portfolio:** Coming Soon
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ *"Code. Learn. Build. Improve."*
