@@ -28,12 +28,6 @@ Cloudflare • EJS
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nevinshobyxib-beep&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevinshobyxib-beep&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
@@ -45,22 +39,10 @@ Cloudflare • EJS
 
 ---
 
+
 ## 📫 Connect With Me
 
-<p>
-  <a href="mailto:nevinshoby.xib@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevinshoby.xib@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nevinshobyxib-beep)
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://github.com/nevinshobyxib-beep">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-⭐ *"Code • Learn • Build • Improve"*
