@@ -6,17 +6,17 @@ I'm a Full Stack Developer passionate about building modern web applications and
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently exploring AI-assisted development and modern software engineering
-- 🚀 Building responsive, scalable, and user-friendly applications
-- 📚 Always learning new technologies and improving my development skills
-- 🎯 Aspiring to become a skilled Full Stack Software Engineer
+-  Passionate about Full Stack Development
+-  Currently exploring AI-assisted development and modern software engineering
+-  Building responsive, scalable, and user-friendly applications
+-  Always learning new technologies and improving my development skills
+-  Aspiring to become a skilled Full Stack Software Engineer
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,python,mysql,postgres,git,github,vite,vscode,npm&perline=15" />
@@ -28,7 +28,7 @@ Cloudflare • EJS
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nevinshobyxib-beep&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -37,7 +37,7 @@ Cloudflare • EJS
 
 ---
 
-## GitHub Streak
+##  GitHub Streak
 
 <p>
   <img src="https://streak-stats.demolab.com?user=nevinshobyxib-beep&theme=github-dark&hide_border=true"/>
@@ -63,3 +63,4 @@ Cloudflare • EJS
 
 ---
 
+⭐ *"Code • Learn • Build • Improve"*
